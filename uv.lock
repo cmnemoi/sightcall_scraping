@@ -604,12 +604,12 @@ lint = [
     { name = "mypy" },
     { name = "pytest-mypy" },
     { name = "ruff" },
+    { name = "types-tqdm" },
 ]
 test = [
     { name = "pytest" },
     { name = "pytest-asyncio" },
     { name = "pytest-cov" },
-    { name = "types-tqdm" },
 ]
 
 [package.metadata]
@@ -629,12 +629,12 @@ lint = [
     { name = "mypy", specifier = ">=1.15.0" },
     { name = "pytest-mypy", specifier = ">=1.0.1" },
     { name = "ruff", specifier = ">=0.11.10" },
+    { name = "types-tqdm", specifier = ">=4.67.0.20250513" },
 ]
 test = [
     { name = "pytest", specifier = ">=8.3.5" },
     { name = "pytest-asyncio", specifier = ">=0.25.2" },
     { name = "pytest-cov", specifier = ">=6.1.1" },
-    { name = "types-tqdm", specifier = ">=4.67.0.20250513" },
 ]
 
 [[package]]
