@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Type Annotations:
+- Type everything explicitly using type hints
+- Avoid using Any
+- Use Optional for nullable types
+
+Error Handling:
+- Use specific exceptions for error handling
+- Avoid catching broad exceptions like Exception
+
+Code Structure:
+- Use dataclasses for simple data structures
+- Prefer NamedTuple for immutable data structures
+
+Enumerations:
+- Use Enum for enumerations
+- Define enum values explicitly
+
+Linting and Formatting:
+- Follow PEP 8 for code style
+- Use Ruff with `uv` for formatting and linting
+
+Generics:
+- Use TypeVar for generic types
+- Use descriptive type parameter names
