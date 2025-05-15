@@ -1,7 +1,7 @@
 ---
-description: APPLY Clean Code principles WHENEVER writing code
-globs: 
-alwaysApply: true
+description: 
+globs: **/*.py
+alwaysApply: false
 ---
 
 Code Quality:
