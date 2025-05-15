@@ -4,7 +4,7 @@
 [![Continuous Delivery](https://github.com/cmnemoi/sightcall_scraping/actions/workflows/create_github_release.yaml/badge.svg)](https://github.com/cmnemoi/sightcall_scraping/actions/workflows/create_github_release.yaml)
 [![codecov](https://codecov.io/gh/cmnemoi/sightcall_scraping/graph/badge.svg?token=FLAARH38AG)](https://codecov.io/gh/cmnemoi/sightcall_scraping)
 
-Scraping SightCall website
+Scraper for [SightCall website](https://sightcall.com).
 
 # Installation
 

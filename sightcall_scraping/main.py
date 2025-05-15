@@ -1,2 +1,4 @@
-def hello_world() -> str:
-    return "Hello, World!"
+from sightcall_scraping.presentation.cli import app
+
+if __name__ == "__main__":
+    app()
